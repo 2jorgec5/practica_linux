@@ -1,0 +1,1 @@
+Utilizar sudo en vez de root previene errores catastròficos al, por ejemplo, SI revisar la sintaxis de un comando, a diferencia de root que lo ejecutarìa sin pensarlo. ELlo podrìa llevar a destruir todo el sistema en segundos. 
